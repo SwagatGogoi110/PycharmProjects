@@ -1,1 +1,1 @@
-# This repositort will contain my projects
+# This repository will contain my projects
